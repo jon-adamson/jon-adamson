@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Data & Analytics Projects:</h2>
 
-- <b>1</b>
+- <b> Data Wrangling & Cleaning </b>
   - 
-- <b>2</b>
+- <b> Exploratory Data Analysis (EDA) </b>
   - 
 
 <h2>📺 Project Video Explanations</h2>
