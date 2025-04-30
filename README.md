@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jon! </h1>
 
 <h2>👨‍💻 Projects:</h2>
-[Loan Default Prediction Project](https://github.com/jon-adamson/Loan-Default-Prediction-Project)
+- Loan Default Prediction Project: https://github.com/jon-adamson/Loan-Default-Prediction-Project
 
 <h2> 🤳 Connect with me:</h2>
 
