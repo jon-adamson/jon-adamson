@@ -1,15 +1,7 @@
 <h1>Hi, I'm Jon! </h1>
 
-<h2>👨‍💻 Data & Analytics Projects:</h2>
-
-- <b> Data Wrangling & Cleaning </b>
-  - 
-- <b> Exploratory Data Analysis (EDA) </b>
-  - 
-
-<h2>📺 Project Video Explanations</h2>
-
-- 
+<h2>👨‍💻 Projects:</h2>
+- [Loan Default Prediction Project](https://github.com/jon-adamson/Loan-Default-Prediction-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
