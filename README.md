@@ -7,7 +7,9 @@ My projects reflect a strong foundation in Python, Excel, and Power BI, with exp
 This GitHub profile showcases my hands-on experience with machine learning, data visualization, and strategic analytics initiatives. I am always looking to improve my skills, contribute to impactful projects, and collaborate with others in the data community.
 
 <h2>👨‍💻 Projects:</h2>
+
 - Loan Default Prediction Project: https://github.com/jon-adamson/Loan-Default-Prediction-Project
+
 - Stock Portfolio Optimization Using Machine Learning: https://github.com/jon-adamson/Stock-Portfolio-Optimization-Using-Machine-Learning
 
 <h2> 🤳 Connect with me:</h2>
