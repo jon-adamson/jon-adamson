@@ -8,6 +8,7 @@ This GitHub profile showcases my hands-on experience with machine learning, data
 
 <h2>👨‍💻 Projects:</h2>
 - Loan Default Prediction Project: https://github.com/jon-adamson/Loan-Default-Prediction-Project
+- Stock Portfolio Optimization Using Machine Learning: https://github.com/jon-adamson/Stock-Portfolio-Optimization-Using-Machine-Learning
 
 <h2> 🤳 Connect with me:</h2>
 
