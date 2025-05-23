@@ -12,6 +12,18 @@ This GitHub profile showcases my hands-on experience with machine learning, data
 
 - Stock Portfolio Optimization Using Machine Learning: https://github.com/jon-adamson/Stock-Portfolio-Optimization-Using-Machine-Learning
 
+<h2>Forage Certifications</h2>
+
+I have completed several online courses and obtained certificates through Forage, which have enhanced my skills in business analytics, data science, and other relevant fields. Below are the certifications I've earned:
+
+- [BCG Data Science](https://www.theforage.com/simulations/bcg/data-science-ccdz)  
+  *Completed: January 2025*  
+  A comprehensive course on using Power BI to analyze and visualize data, including key business applications.
+
+- [PwC Switzerland Power BI](https://www.forage.co/courses/google-data-analytics)  
+  *Completed: November 2024*  
+  A course that provided hands-on experience in applying data science techniques to solve business problems, with a focus on statistical analysis, machine learning, and data-driven decision-making.
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JonAdamson | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
