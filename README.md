@@ -20,7 +20,7 @@ I have completed several online courses and obtained certificates through Forage
   *Completed: January 2025*  
   A comprehensive course on using Power BI to analyze and visualize data, including key business applications.
 
-- [PwC Switzerland Power BI](https://www.forage.co/courses/google-data-analytics)  
+- [PwC Switzerland Power BI](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg)  
   *Completed: November 2024*  
   A course that provided hands-on experience in applying data science techniques to solve business problems, with a focus on statistical analysis, machine learning, and data-driven decision-making.
 
